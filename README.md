@@ -170,12 +170,3 @@ npm run dev
 > You can also run them individually:
 > - Backend only: `npm run dev:server`
 > - Frontend only: `npm run dev:client`
-
-
----
-
-## Team
-- Prabhat Bhatia 
-- Suhani Yadav
-- Aradhya Mathur 
-- Kumar Partha 
